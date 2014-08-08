@@ -1,1 +1,1 @@
-this is my proposal
+I would like my final project to be a location based app that pulls in pet information from around them.
